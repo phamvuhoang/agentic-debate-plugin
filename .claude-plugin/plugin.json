@@ -1,0 +1,11 @@
+{
+  "name": "agentic-debate",
+  "description": "Structured adversarial debate skill for high-stakes technical and strategic decisions.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Henry Hoang Pham"
+  },
+  "homepage": "https://github.com/phamvuhoang/agentic-debate-plugin",
+  "repository": "https://github.com/phamvuhoang/agentic-debate-plugin",
+  "license": "MIT"
+}

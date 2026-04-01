@@ -1,0 +1,27 @@
+{
+  "name": "agentic-debate",
+  "version": "1.0.0",
+  "description": "Structured adversarial debate skill for high-stakes technical and strategic decisions.",
+  "author": "Henry Hoang Pham",
+  "homepage": "https://github.com/phamvuhoang/agentic-debate-plugin",
+  "repository": "https://github.com/phamvuhoang/agentic-debate-plugin",
+  "license": "MIT",
+  "keywords": [
+    "debate",
+    "architecture",
+    "decision-making",
+    "reasoning"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Agentic Debate",
+    "shortDescription": "Stress-test decisions with structured multi-perspective debate.",
+    "longDescription": "Runs a structured adversarial debate with named participants, challenge rounds, topic arbitration, and synthesis before reaching a recommendation.",
+    "developerName": "Henry Hoang Pham",
+    "category": "Productivity",
+    "capabilities": [
+      "skills"
+    ],
+    "websiteURL": "https://github.com/phamvuhoang/agentic-debate-plugin"
+  }
+}

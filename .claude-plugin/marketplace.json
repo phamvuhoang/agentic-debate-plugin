@@ -1,0 +1,13 @@
+{
+  "name": "agentic-debate-plugins",
+  "owner": {
+    "name": "Henry Hoang Pham"
+  },
+  "plugins": [
+    {
+      "name": "agentic-debate",
+      "source": "./",
+      "description": "Structured adversarial debate skill for high-stakes technical and strategic decisions."
+    }
+  ]
+}

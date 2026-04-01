@@ -1,0 +1,20 @@
+{
+  "name": "agentic-debate-plugins",
+  "interface": {
+    "displayName": "agentic-debate-plugins"
+  },
+  "plugins": [
+    {
+      "name": "agentic-debate",
+      "source": {
+        "source": "local",
+        "path": "./plugins/agentic-debate-plugin"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
